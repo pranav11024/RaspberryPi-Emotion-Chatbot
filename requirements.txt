@@ -1,0 +1,6 @@
+tk
+gTTS
+pydub
+speechrecognition
+pygame
+google-generativeai
