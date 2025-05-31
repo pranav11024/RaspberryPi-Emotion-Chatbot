@@ -26,12 +26,17 @@ Then run:
 pip install -r requirements.txt
 ```
 On Ubuntu/Debian:
+```bash
 sudo apt-get install ffmpeg
-
+```
+```
 git clone https://github.com/pranav11024/RaspberryPi-Emotion-Chatbot.git
-cd ai-voice-assistant
 
+cd ai-voice-assistant
+```
 Replace "Your_API_KEY" with your actual API key from Google AI Studio.
 
 To Run:
+```
 python voice_assistant.py
+```
